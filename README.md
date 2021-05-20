@@ -107,7 +107,11 @@ alt="\begin{eqnarray}
 <img src=
 "https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Ctherefore+%5Cmathrm+P+%3D+Const+%5C%C2%A0%5Ctimes+%5C+%5Cexp%5Cleft%5B+-%5Cfrac%7B%5Cleft%28+%5Cfrac%7B1%7D%7B%5Cbeta%7D+%2B+%5Cfrac%7B1%7D%7B%5Cbeta_%7BN%7D%7D+%5Cright%29%5E%7B2%7D%7D%7B2%7D+%28x_%7B0%7D+-+%5Cmu_%7BN%7D%29%5E%7B2%7D%5Cright%5D" 
 alt="\therefore \mathrm P = Const \ \times \ \exp\left[ -\frac{\left( \frac{1}{\beta} + \frac{1}{\beta_{N}} \right)^{2}}{2} (x_{0} - \mu_{N})^{2}\right]"> \
-これは、Pが平均μ_N、分散(1/β + 1/β_N)の正規分布であることを示している。 \
+これは、Pが平均<img src=
+"https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cmu_%7BN%7D" 
+alt="\mu_{N}">、分散<img src=
+"https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cfrac%7B1%7D%7B%5Cbeta%7D+%2B+%5Cfrac%7B1%7D%7B%5Cbeta_%7BN%7D%7D" 
+alt="\frac{1}{\beta} + \frac{1}{\beta_{N}}">の正規分布であることを示している。 \
 <img src=
 "https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Ctherefore+%5Cmathrm+P+%3D+%5Cmathcal+N+%5Cleft%28x_%7B0%7D+%7C+%5Cmu_%7BN%7D%2C+%5Cleft%28%5Cfrac%7B1%7D%7B%5Cbeta%7D+%2B+%5Cfrac%7B1%7D%7B%5Cbeta_%7BN%7D%7D%5Cright%29%5Cright%29" 
 alt="\therefore \mathrm P = \mathcal N \left(x_{0} | \mu_{N}, \left(\frac{1}{\beta} + \frac{1}{\beta_{N}}\right)\right)">
