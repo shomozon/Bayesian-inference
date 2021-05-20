@@ -1,4 +1,5 @@
 # Bayesian-inference
+＊Please do not start the translation software.*
 ## 正規分布
 <img src=
 "https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cmathcal+N%28x+%7C+%5Cmu+%2C+%5Csigma%5E%7B2%7D%29+%3D+%5Cfrac%7B1%7D%7B%5Csqrt%7B2%5Cpi+%5Csigma%5E%7B2%7D%7D%7D%0A++++%5Cexp%5Cleft%5C%7B+-%5Cfrac%7B1%7D%7B2%5Csigma%5E%7B2%7D%7D%28x+-+%5Cmu%29%5E%7B2%7D%5Cright%5C%7D" 
